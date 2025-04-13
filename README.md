@@ -1,2 +1,4 @@
-# dio-desafio-github-repositorio
-Desafio de Projeto sobre Git/GitHub
+# aprendizado-e-estudos/
+exercicios/
+  exercicio_1/
+      desafio de conhecimento básico git/github.
