@@ -7,6 +7,7 @@ Este repositório contém exercícios de estudo sobre programação organizadas 
 ## Exercicio 1:
 
       Desafio de conhecimento básico Git/Github.
+      README.md
 
 #### Guia para organização, um novo MindSet 🧠
 
