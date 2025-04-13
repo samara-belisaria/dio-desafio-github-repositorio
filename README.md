@@ -5,8 +5,8 @@
 Este diretório contém exercícios que estou resolvendo do curso. 
 
 ## Exercicio 1:
-
-      Desafio de conhecimento básico Git/Github.
+Desafio de conhecimento básico Git/Github.
+[Visite](https://github.com/samara-belisaria/dio-desafio-github-repositorio/blob/main/README.md) 
 #### Guia para organização, um novo MindSet 🧠
 
 
