@@ -2,7 +2,7 @@
 
 ## Exercicios: ✍🏻
 
-Este repositório contém exercícios de estudo sobre programação organizadas por tópicos.
+Este diretório contém exercícios que estou resolvendo do curso. 
 
 ## Exercicio 1:
 
