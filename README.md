@@ -1,4 +1,6 @@
 # Aprendizado e Estudos
-Exercicios:/
-  Exercicio/
+Exercicios:
+
+  Exercicio
+  
       Desafio de conhecimento básico Git/Github.
