@@ -7,8 +7,7 @@ Este repositório contém exercícios de estudo sobre programação organizadas 
 ## Exercicio 1:
 
       Desafio de conhecimento básico Git/Github.
-      [entrega da atividade 1](https://github.com/samara-belisaria/dio-desafio-github-repositorio/blob/main/README.md)
-
+      Atividade 1: [README.md](https://github.com/samara-belisaria/dio-desafio-github-repositorio/blob/main/README.md)
 #### Guia para organização, um novo MindSet 🧠
 
 
